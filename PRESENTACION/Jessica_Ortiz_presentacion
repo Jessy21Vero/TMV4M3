@@ -1,0 +1,69 @@
+Control Estadístico de la Calidad
+========================================================
+author: Jessica ortiz 
+date: 20/10/2018
+autosize: true
+
+CALIDAD ( ISO 9000:2000)
+========================================================
+
+Grado en el que un conjunto de características (rasgos diferenciadores) inherentes (existen en algo, especialmente como características permanentes) cumple con los requisitos (necesidad o expectativa establecida, generalmente implícita u obligatoria). 
+
+
+ALGUNAS DEFINICIONDES DE CALIDAD
+========================================================
+
+- El grado al cual un producto es conforme a las especificaciones del diseño.
+
+- Las características o atributos que distinguen a un artículo de otro.
+
+- Conformancia con los requerimientos de ingeniería aplicables, de acuerdo con las especificaciones, dibujos y demás documentos de ingeniería relacionados.
+
+Dimensiones de la calidad
+========================================================
+- Desempeño. ¿Desempeñará el producto la función para la cual fue creado?
+- Confiabilidad. ¿Con qué frecuencia falla el producto?
+- Durabilidad. ¿Cuánto dura el producto? 
+- Disponibilidad del servicio. ¿Qué tan fácil es
+reparar un producto?
+
+Calidad significa adecuación para el uso
+========================================================
+*Calidad de diseño* Un producto o servicio se produce con un grado o
+nivel de calidad, el cual es intencional.
+
+*Calidad de conformancia* Qué tan bien cumple un producto o servicio con
+las especificaciones de diseño. Se ve afectada por: el proceso de manufactura,
+el entrenamiento y la supervisión, el sistema de calidad, el grado al cual se
+aplican los procedimientos del sistema de calidad y la motivación de la fuerza de trabajo, entre otros factores.
+
+Mejoramiento de la calidad (Montgomery, 1997)
+========================================================
+Reducción de la variabilidad en procesos y productos. 
+Excesiva variabilidad en el desempeño de un proceso se traduce
+frecuentemente en desperdicio.
+
+ ¿Y en servicios? Reducción de desperdicio. 
+
+```{r, cars, fig.cap="A scatterplot.", echo=FALSE}
+plot(cars)
+```
+
+```{r}
+summary(cars)
+```
+
+Ejemplo de regresion Lineal con calidad
+========================================================
+```{r, echo=FALSE}
+plot(cars)
+```
+
+
+========================================================
+
+
+```{r}
+
+```
+
